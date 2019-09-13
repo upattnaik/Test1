@@ -1,1 +1,2 @@
 This is the second Test for git commands demonstration
+This is the second version for git commands demonstration using GIT or GitHub
